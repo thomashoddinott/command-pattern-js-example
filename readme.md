@@ -6,4 +6,5 @@ This lets us execute, undo, and combine commands easily.
 
 It also scales well, allowing us to create more complex functionality with less code.
 
-see [before](./script.js) and [after](./script2.js)
+See [before.js](./before.js) and [after.js](./after.js)
+
